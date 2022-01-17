@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 
-[image](https://user-images.githubusercontent.com/93818776/149837411-4574d82b-749a-4c89-b782-5073c67b6c8d.png)
-
-https://www.linkedin.com/in/mesut-yildirim-73a255222/ 
-
-yildirimesutcw@gmail.com
 
 - 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
