@@ -12,6 +12,7 @@
 - 👨🏼‍🤝‍👨🏻 I'm developing an app with my team,
 - 💻 I also work as a FreeLancer.
 
+<a href="https://www.linkedin.com/in/mesut-yildirim-73a255222/"> <img src="https://camo.githubusercontent.com/f5edfb00a9611d1febec299143039e66b68410d990af5d102880758a02febc42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d6c696e6b6564696e2d303037326231" alt=""> </a>
 <!--
 **yildirimesutx/yildirimesutx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
