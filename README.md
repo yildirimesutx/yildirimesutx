@@ -4,17 +4,6 @@
 
 # Hi there 👋 Mesut here! Loves developing..
 
-📩 Connect with me:
-<br>
-<a href="https://www.linkedin.com/in/mesut-yildirim-73a255222/"target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="">
-</a>
-<a href="mailto:yildirimesut"target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:yildirimesutcw@gmail.com">
-</a>
-<a href="https://https://medium.com/@yildirimesutcw/"target="_blank">
-    <img src="https://img.shields.io/badge/%20-medium-black" alt="https://medium.com/@yildirimesutcw">
-</a>
 
 
 <a>
