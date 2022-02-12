@@ -44,7 +44,7 @@
 [linux]: https://www.linux.org/
 [HTML]: https://www.w3schools.com/html/
 
-<img src=""></a>" alt="" data-canonical-src="https://activity-graph.herokuapp.com/graph?username=yildirimesutx" style="max-width: 100%;">> 
+ 
 
 <!--
 **yildirimesutx/yildirimesutx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
