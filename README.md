@@ -6,9 +6,7 @@
 
 
 
-<a>
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png" align='left' width="20%" alt="react">
-</a>    
+   
 
 ### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
 - 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
