@@ -15,10 +15,6 @@
 - 💬 You can ask me anything you want to know
 
 
-#### ⏲ What we are doing now:
-- 🚀 I'm developing a project for Teknofest, i keep improving myself 📃.
-- 👨🏼‍🤝‍👨🏻 I'm developing an app with my team, 
-- 💻 I also work as a FreeLancer.
 
 ###### 🔧 Languages and Tools:
 
