@@ -1,4 +1,4 @@
-# Hi I'm Mesut👋
+# Hi, I'm Mesut👋
 
 
 # 🌱 I’m currently learning Full-Stack Development Languages.
