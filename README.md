@@ -1,12 +1,12 @@
 # Hi I'm Mesut👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=yildirimesutx&show_icons=true&theme=tokyonight" align='right' width="55%">
-
+<hr class="dotted">
 # 🌱 I’m currently learning Full-Stack Development Languages.
 
 
 
-   
+ <hr class="dotted">  
 
 
 
@@ -38,22 +38,23 @@
 <br><br><br><br><br>
 <hr class="dotted">
 
- 
+### 💻🔗 Social
 
-<!--
-**yildirimesutx/yildirimesutx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+    <tr>
+        <td vlign=center><a href="www.linkedin.com/in/yildirimesut" target="blank"><img align="center" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a></td>
+        <td vlign=center><br>
+        
+![](https://komarev.com/ghpvc/?username=yildirimesutx)</td>
+    </tr>
+</table>
 
-Here are some ideas to get you started:
+<hr class="dotted">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 Contact Me !
+
+<a href="mailto:yildirimesutcw@gmail.com" target="blank"><img align="center" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" /></a> 
+
 
 
 
