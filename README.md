@@ -1,7 +1,6 @@
 # Hi I'm Mesut👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=yildirimesutx&show_icons=true&theme=tokyonight" align='right' width="55%">
-<hr class="dotted">
+
 # 🌱 I’m currently learning Full-Stack Development Languages.
 
 
