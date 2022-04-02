@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi I'm Mesut👋
 
 <img src="https://github-readme-stats.vercel.app/api?username=yildirimesutx&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-# Hi there 👋 Mesut here! Loves developing..
+#🌱 I’m currently learning Full-Stack Development Languages.
 
 
 
    
 
-### 📑 I'm currently doing front and backend development (Java Script | React | Node.js | Django)
-- 👨🏼‍🤝‍👨🏻 I want to collaborate on open source projects
-- 🥅 Goals: Developing an app to be heard in the world and learning virtual reality and artificial intelligence 🤖
-- ⚡ Fun fact: I love to running , play chess ♟and cycling 🚴‍♀️
-- 💬 You can ask me anything you want to know
+
 
 
 
