@@ -51,9 +51,9 @@
 ### 📧 Contact Me !
 
 <p>
-<a href="mailto:yildirimesutcw@gmail.com" target="blank"><img align="center" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" /></a>
+<a href="mailto:yildirimesutcw@gmail.com" target="blank"><img src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" /></a>
 
-<a href="www.linkedin.com/in/yildirimesut" target="blank"><img align="center" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a> 
+<a href="www.linkedin.com/in/yildirimesut" target="blank"><img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a> 
 </p>
 
 
