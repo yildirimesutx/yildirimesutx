@@ -1,7 +1,7 @@
 # Hi, I'm Mesut👋
 
 
-# 🌱 I am currently working on Full Stack Development Languages.
+# 🌱 I'm currently working on Full Stack Development Languages.
 
 
 
