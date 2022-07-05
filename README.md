@@ -70,7 +70,6 @@
 
 </p>
 
-![gitartwork](gitartwork.svg)
 
 
 
