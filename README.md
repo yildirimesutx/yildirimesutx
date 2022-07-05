@@ -37,13 +37,10 @@
 <br><br><br><br><br>
 <hr class="dotted">
 
-### 💻🔗 Social
+### 💻🔗
 
  <a href="#" target="_blank" >
     <img align="center" src="https://komarev.com/ghpvc/?username=yildirimesutx&color=f75c7e">
- </a>
- <a href="#" target="_blank">
-    <img align="center" src="https://img.shields.io/github/followers/yildirimesutx?style=flat-square&color=f75c7e">
  </a>
 
 <hr class="dotted">
