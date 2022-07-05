@@ -39,7 +39,7 @@
 
 ### 💻🔗 Social
 
- <a href="#" target="_blank">
+ <a href="#" target="_blank" >
     <img align="center" src="https://komarev.com/ghpvc/?username=yildirimesutx&color=f75c7e">
  </a>
  <a href="#" target="_blank">
@@ -51,9 +51,14 @@
 ### 📧 Contact Me !
 
 <p>
-<a href="mailto:yildirimesutcw@gmail.com" target="blank"><img src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" /></a>
+<a href="mailto:yildirimesutcw@gmail.com" target="blank" display="inline">
+<img src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" />
+</a>
 
-<a href="www.linkedin.com/in/yildirimesut" target="blank"><img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a> 
+<a href="www.linkedin.com/in/yildirimesut" target="blank" display="inline">
+
+<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" />
+</a> 
 </p>
 
 
