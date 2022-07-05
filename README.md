@@ -68,10 +68,9 @@
 <img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/stack.svg" alt="stack" width="100px" height="25px"/>
 </a> 
 
-
-
-
 </p>
+
+![gitartwork](gitartwork.svg)
 
 
 
