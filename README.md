@@ -42,8 +42,12 @@
 <table>
     <tr>
         <td vlign=center><a href="https://www.linkedin.com/in/yildirimesut" target="blank"><img align="center" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" /></a></td>
-        <td vlign=center><br>
-        
+       
+        <td vlign=center><a href="https://medium.com/@yildirimesutcw" target="blank"><img align="center" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Medium.svg" alt="Medium" /></a></td>
+
+
+
+        <td vlign=center><br>  
 ![](https://komarev.com/ghpvc/?username=yildirimesutx)</td>
     </tr>
 </table>
