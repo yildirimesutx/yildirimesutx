@@ -59,6 +59,13 @@
 
 <img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" />
 </a> 
+
+<a href="https://medium.com/@yildirimesutcw" target="blank" display="inline">
+<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Medium.svg" alt="Medium" />
+</a> 
+
+
+
 </p>
 
 
