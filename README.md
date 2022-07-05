@@ -51,20 +51,20 @@
 ### 📧 Contact Me !
 
 <p>
-<a href="mailto:yildirimesutcw@gmail.com" target="_blank" display="inline">
+<a href="mailto:yildirimesutcw@gmail.com" target="_blank" display="inline" width="50px">
 <img src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" />
 </a>
 
-<a href="https://www.linkedin.com/in/yildirimesut/" target="_blank" display="inline">
+<a href="https://www.linkedin.com/in/yildirimesut/" target="_blank" display="inline" width="50px">
 
 <img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" />
 </a> 
 
-<a href="https://medium.com/@yildirimesutcw" target="_blank" display="inline">
+<a href="https://medium.com/@yildirimesutcw" target="_blank" display="inline" width="50px">
 <img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Medium.svg" alt="Medium" />
 </a> 
 
-<a href="https://stackoverflow.com/users/19485935/mesut-y%c4%b1ld%c4%b1r%c4%b1m" target="_blank" display="inline">
+<a href="https://stackoverflow.com/users/19485935/mesut-y%c4%b1ld%c4%b1r%c4%b1m" target="_blank" display="inline" width="50px">
 <img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/stack.svg" alt="stack" />
 </a> 
 
