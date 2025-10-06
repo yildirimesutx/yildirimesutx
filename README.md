@@ -1,77 +1,30 @@
-# Hi, I'm Mesut👋
+# Hi, I'm Mesut 👋
 
+Backend Engineer focused on **e-commerce ops** (OMS/WMS, returns).  
+I build **multi-tenant SaaS** with **Django + Celery**, ship with **Docker** on **AWS**, and keep things **observable & reliable**.
 
-# 🌱 I'm currently working on Full Stack Development Languages.
+---
 
+### 🔎 What I’m working on
+- Order & returns automation, label/invoice pipelines
+- Multi-tenant data models, webhooks & marketplace integrations
+- Task orchestration with Celery (separate queues, scheduled jobs)
 
+### 🛠️ Tech I use daily
+- **Python/Django** · **Celery** · **PostgreSQL/Redis**
+- **Docker** · **NGINX** · **AWS**
+- **React/Next.js** (for dashboards & portals)
+- Monitoring, logging, and pragmatic testing
 
- <hr class="dotted">  
+### 📌 Interests
+- Tenant isolation patterns, idempotent workflows
+- Cost-effective architectures & DX
+- Clean APIs, background processing, observability
 
+---
 
+### 📫 Contact
+[Email](mailto:yildirimesutcw@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yildirimesut/) · [Medium](https://medium.com/@yildirimesutcw) · [Stack Overflow](https://stackoverflow.com/users/19485935/mesut-y%C4%B1ld%C4%B1r%C4%B1m)
 
-
-
-###### 🔧 Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/vscode.png">
-<img align="left" alt="HTML5" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/HTML5.png" />
-<img align="left" alt="CSS3" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/css3.png"/>
-<img align="left" alt="JavaScript" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/javascript.png" />
-<img align="left" alt="Python" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/python_.png" />
-<img align="left" alt="Git" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/git.png" />
-<img align="left" alt="GitHub" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/github.png" />
-<img align="left" alt="Jira" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/jira.jpg" />
-<img align="left" alt="Slack" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/slack.jpg" />
-<img align="left" alt="django" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/django.png" />
-<img align="left" alt="react" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/react.png" /><br><br><br>
-<img align="left" alt="redux" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/redux.png"/>
-<img align="left" alt="sass" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/sass.png" />
-<img align="left" alt="Material-UI" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/MaterialUI.png" vlign=center/>
-<img align="left" alt="bootstrap" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Bootstrap.jpg" />
-<img align="left" alt="styledcomponent" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/styledcomponents.png" />
-<img align="left" alt="postgreSQL" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/PostgreSQL.png" />
-<img align="left" alt="postman" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/postman.png" />
-<img align="left" alt="mongoDB" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/mongoDB.png" />
-<img align="left" alt="MySQL" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/MySQL.png"/>
-<img align="left" alt="heroku" height="50px" src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/heroku.png"/>
-<br><br><br><br><br>
-<hr class="dotted">
-
-### 💻🔗
-
- <a href="#" target="_blank" >
-    <img align="center" src="https://komarev.com/ghpvc/?username=yildirimesutx&color=f75c7e">
- </a>
-
-<hr class="dotted">
-
-### 📧 Contact Me !
-
-<p>
-<a href="mailto:yildirimesutcw@gmail.com" target="_blank" display="inline" >
-<img src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Gmail.svg" alt="gmail" width="100px" height="25px" />
-</a>
-
-<a href="https://www.linkedin.com/in/yildirimesut/" target="_blank" display="inline" >
-
-<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/LinkedIn.svg" alt="LinkedIn" width="100px" height="25px"/>
-</a> 
-
-<a href="https://medium.com/@yildirimesutcw" target="_blank" display="inline" >
-<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/Medium.svg" alt="Medium" width="100px" height="25px"/>
-</a> 
-
-<a href="https://stackoverflow.com/users/19485935/mesut-y%c4%b1ld%c4%b1r%c4%b1m" target="_blank" display="inline" >
-<img  src="https://github.com/yildirimesutx/yildirimesutx/blob/main/images/stack.svg" alt="stack" width="100px" height="25px"/>
-</a> 
-
-</p>
-
-
-
-
-
-
-
-
+![profile views](https://komarev.com/ghpvc/?username=yildirimesutx&color=f75c7e)
 
