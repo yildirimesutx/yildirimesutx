@@ -7,28 +7,27 @@ I build **multi-tenant SaaS** with **Django + Celery**, ship with **Docker** on 
 
 ### 🔎 What I’m working on
 - Order & returns automation, invoice/label pipelines  
-- **E-commerce integrations:** Shopify, WooCommerce, (and regional marketplaces)  
-- **Payment integrations:** Stripe, **Xendit**, (others as needed)  
+- **E-commerce integrations:** Shopify, WooCommerce, **Trendyol, Hepsiburada**  
+- **Payment integrations:** Stripe, **Xendit**  
 - **Mobile apps:** iOS/Android client portals (React Native/Expo; FlutterFlow when practical)  
 - Multi-tenant data models, webhooks, background workers
 
 ### 🛠️ Tech I use daily
-- **Python/Django** · **Celery** · **PostgreSQL/Redis** · **RabbitMQ**
-- **Docker** · **NGINX** · **AWS**
-- **React/Next.js** for dashboards & portals
+- **Python/Django** · **Celery** · **PostgreSQL/Redis** · **RabbitMQ**  
+- **Docker** · **NGINX** · **AWS**  
+- **React/Next.js** for dashboards & portals  
 - REST/GraphQL APIs · Observability (logging/metrics) · Pragmatic testing
+
+### 🔗 Selected integrations & domains
+- **Marketplaces/Stores:** Shopify, WooCommerce, **Trendyol, Hepsiburada**  
+- **Carriers/Logistics:** **Sürat Kargo, Aras Kargo** (labels, tracking, webhooks)  
+- **ERP/Accounting:** **Netsis** (Logo)  
+- **Payments:** Stripe, **Xendit** (metered/seat-based billing on request)
 
 ### 📌 Interests
 - Tenant isolation patterns & idempotent workflows  
 - Cost-effective, resilient architectures  
 - Clean APIs, event/webhook-driven systems, background processing
-
----
-
-### 🔗 Selected integrations & domains
-- **Marketplaces/Stores:** Shopify, WooCommerce (+ regional platforms)  
-- **Carriers/Logistics:** label & tracking workflows, webhook handling  
-- **Payments:** Stripe, **Xendit**, (PayPal/Adyen on request)
 
 ---
 
